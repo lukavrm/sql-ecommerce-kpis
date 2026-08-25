@@ -1,5 +1,14 @@
 # 📊 Análise de Vendas com SQL — KPIs Essenciais para E-commerce
 
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![Language](https://img.shields.io/badge/Linguagem-SQL-blue?style=for-the-badge)
+![Analytics](https://img.shields.io/badge/Análise%20de%20Dados-E--commerce-blueviolet?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
+
+---
+
 ## 📘 Descrição
 Este projeto apresenta uma análise completa de vendas utilizando SQL, com foco em KPIs essenciais para tomada de decisão em negócios digitais.  
 O objetivo é demonstrar domínio de consultas SQL, agregações, joins, funções de data e construção de indicadores de desempenho.
