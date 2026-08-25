@@ -67,3 +67,26 @@ O dataset contém informações de pedidos, incluindo:
 - Power BI  
 
 ## 📁 Estrutura do Projeto
+
+### 🗂️ SQL (consultas organizadas por etapas)
+
+1. **Verificação inicial da tabela**  
+   [`01_verificacao_inicial.sql`](sql/01_verificacao_inicial.sql)
+
+2. **Criação e organização do schema**  
+   [`02_schema.sql`](sql/02_schema.sql)
+
+3. **Criação das tabelas de dimensão**  
+   [`03_dimensoes.sql`](sql/03_dimensoes.sql)
+
+4. **Criação da tabela fato**  
+   [`04_fato.sql`](sql/04_fato.sql)
+
+5. **Inserção de dados nas tabelas**  
+   [`05_insercoes.sql`](sql/05_insercoes.sql)
+
+6. **Validações e verificações**  
+   [`06_validacoes.sql`](sql/06_validacoes.sql)
+
+7. **KPIs e análises de vendas**  
+   [`07_kpis.sql`](sql/07_kpis.sql)
